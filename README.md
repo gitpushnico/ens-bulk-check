@@ -1,5 +1,7 @@
 # ens-bulk-check
 
+[ens-bulk-check.vercel.app](https://ens-bulk-check.vercel.app/)
+
 Check a list of `.eth` names. ENS opens one name at a time. Up to 40 are read from the Ethereum registrar in one pass: registered, grace, premium, or available, plus owner, expiry, and the live one-year price.
 
 Read-only. No wallet.

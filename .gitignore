@@ -17,6 +17,10 @@
 /.next/
 /out/
 
+# Recreated by `next dev` when an agent is detected. Not part of the project.
+/AGENTS.md
+/CLAUDE.md
+
 # production
 /build
 

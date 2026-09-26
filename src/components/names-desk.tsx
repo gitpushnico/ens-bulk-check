@@ -274,9 +274,19 @@ export function NamesDesk() {
         </section>
       ) : null}
 
-      <Link href="/privacy" className="text-sm text-muted-foreground hover:underline">
-        Privacy
-      </Link>
+      <div className="flex items-center gap-4 text-sm text-muted-foreground">
+        <Link href="/privacy" className="hover:underline">
+          Privacy
+        </Link>
+        <a
+          href="https://github.com/gitpushnico/ens-bulk-check"
+          className="hover:underline"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Source
+        </a>
+      </div>
     </div>
   );
 }

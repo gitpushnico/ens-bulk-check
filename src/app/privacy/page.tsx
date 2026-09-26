@@ -33,8 +33,8 @@ export default function PrivacyPage() {
           You can ask what is held about you, ask for a correction or deletion, or object. You can
           also complain to a data protection authority in the EU. Nicolaj Hasberg is responsible for
           this site. Write to{" "}
-          <a href="mailto:hello@nicolaj.xyz" className="hover:underline">
-            hello@nicolaj.xyz
+          <a href="mailto:privacy@nicolaj.xyz" className="hover:underline">
+            privacy@nicolaj.xyz
           </a>
           .
         </p>
