@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Field",
+  title: "Check names",
   description: "Tired of manually checking names? Check up to 40 at a time.",
 };
 

@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Text } from "@/components/retroui/Text";
 
 export const metadata: Metadata = {
-  title: "Privacy · Field",
-  description: "What Field does with the names you check.",
+  title: "Privacy",
+  description: "What happens to the names you check.",
 };
 
 export default function PrivacyPage() {
@@ -13,7 +13,7 @@ export default function PrivacyPage() {
       <Text as="h1">Privacy</Text>
       <div className="flex max-w-2xl flex-col gap-4 text-lg leading-relaxed">
         <p>
-          Field checks the names you paste in. There is no account, no wallet, and no cookie. The
+          This site checks the names you paste in. There is no account, no wallet, and no cookie. The
           list is not saved after the answer comes back.
         </p>
         <p>

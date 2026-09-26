@@ -1,6 +1,6 @@
-# Field
+# ens-bulk-check
 
-Check a list of `.eth` names. ENS opens one name at a time. Field reads up to 40 from the Ethereum registrar in one pass: registered, grace, premium, or available, plus owner, expiry, and the live one-year price.
+Check a list of `.eth` names. ENS opens one name at a time. Up to 40 are read from the Ethereum registrar in one pass: registered, grace, premium, or available, plus owner, expiry, and the live one-year price.
 
 Read-only. No wallet.
 
@@ -28,6 +28,6 @@ The interface uses [RetroUI](https://retroui.dev) (NeoBrutalism) components unde
 
 ## License
 
-Field is [MIT](LICENSE) licensed. Copyright (c) 2026 Nicolaj Hasberg.
+The code is [MIT](LICENSE) licensed. Copyright (c) 2026 Nicolaj Hasberg.
 
 RetroUI components under `src/components/retroui` stay Copyright (c) 2024 Arif Hossain, also MIT.

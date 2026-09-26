@@ -1,10 +1,10 @@
 ---
-description: Field product constraints
+description: Product constraints
 alwaysApply: true
 ---
 
 Stack is Next.js, TypeScript, Tailwind, and viem. The interface uses RetroUI (NeoBrutalism) components. Keep the MIT copyright notice in every copied RetroUI source file.
 
-Field is bulk ENS lookup on Ethereum mainnet. The lookup lives in `src/lib/ens/`. Read-only. No wallet, no OpenSea, no Floor.
+This app is a bulk ENS lookup on Ethereum mainnet. The lookup lives in `src/lib/ens/`. Read-only. No wallet, no OpenSea, no Floor.
 
 Never ask for or store a private key or seed.
