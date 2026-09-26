@@ -32,14 +32,9 @@ export default function PrivacyPage() {
         <p>
           You can ask what is held about you, ask for a correction or deletion, or object. You can
           also complain to a data protection authority in the EU. Nicolaj Hasberg is responsible for
-          this site. Write through{" "}
-          <a
-            href="https://github.com/gitpushnico/ens-bulk-check/issues"
-            className="hover:underline"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub
+          this site. Write to{" "}
+          <a href="mailto:hello@nicolaj.xyz" className="hover:underline">
+            hello@nicolaj.xyz
           </a>
           .
         </p>
